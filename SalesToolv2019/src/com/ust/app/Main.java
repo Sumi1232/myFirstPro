@@ -12,6 +12,10 @@ public class Main {
     }
     public static void displayGreeting(){
     	System.out.println("displaying sales");
+    	System.out.println("Test1");
+    	System.out.println("Test2");
+    	System.out.println("Test3");
+    	
     }
      
 	
